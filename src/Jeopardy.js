@@ -73,6 +73,7 @@ const Jeopardy = () => {
 
     const isCorrect = validate(input) === validate(jepData.question.answer);
     isCorrect ? updateScore(value) : updateScore(-value);
+    handleNextQuestion()();
   };
 
   return (
