@@ -1,5 +1,6 @@
 {
   "name": "react-jeopardy-normal",
+  "homepage": "https://knegley.gitlab.io/react-jeopardy-normal-and-medium",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
